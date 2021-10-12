@@ -34,7 +34,7 @@
 > > **7.** Student teaching himself freely with his preffered techniques  
 > > **8.** Student-teacher relation  
 > > **9.** Student learning maths interactively and visually  
-> > **10.** Student language
+> > **10.** Student's language
 > 
 > ### Features in The Dataset Supporting the Investigation Into The Above Points of Interest:
 > 
