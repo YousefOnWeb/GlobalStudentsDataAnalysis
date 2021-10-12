@@ -2,6 +2,10 @@
 
 ## by Yousef Abdrabo
 
+If you are skipping the README:
+[Go to full wrangling process](https://github.com/YousefOnWeb/GlobalStudentsDataAnalysis/blob/main/PISA_Results_Wrangling.ipynb)<br>
+[Go to full analysis process](https://github.com/YousefOnWeb/GlobalStudentsDataAnalysis/blob/main/PISA_Results_Exploration.ipynb)
+
 ## Dataset
 
 > The Programme for International Student Assessment is a worldwide study 
