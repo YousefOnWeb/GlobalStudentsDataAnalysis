@@ -225,7 +225,7 @@
 >   ![corr. coffs](/Images/index23.png "corr coffs") <br>
 >   Which is also proven by the following binned scatterplot:
 >   ![scatter](/Images/index24.png "scatter") <br>
->   And also by the following 2d histogram:
+>   And also by the following 2d histogram: <br>
 >   ![2D hist](/Images/index25.png "2D hist")
 >   <br>
 > 
