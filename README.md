@@ -142,117 +142,117 @@
 > 
 > * Distribution of age of starting grade ISCED 1 (starting primary education), there are some outliers staring education at the age of 8 and above, but they are not removed as they can unlock interesting findings not found in the mainstream of students data.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index2.png" title="Text to show on mouseover" alt="alt text for screen readers" width="397">
+>   <img src="/Images/index2.png" title="Text to show on mouseover" alt="alt text for screen readers" width="397">
 >   <br>
 > 
 > * On a global scale (talking about all countries combined), female students are 4638 more than male students in the dataset, which is nearly 0.0001 percent, so they are almost equal in count when neglecting each country's individual biological sex gap.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index3.png" title="Text to show on mouseover" alt="alt text for screen readers" width="397">
+>   <img src="/Images/index3.png" title="Text to show on mouseover" alt="alt text for screen readers" width="397">
 >   <br>
 > 
 > * Most students are either moderate or extreme about using ICT for entertainment, which means, only very few students use ICT for entertainment by a factor between moderate and extreme, and the majority of students are either moderate or extreme.
 >   When comparing moderate to extreme entertainment use of ICT, moderate is proven to be way more frequent, with the change in frequency being exponential.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index4.png" title="Text to show on mouseover" alt="alt text for screen readers" width="397">
+>   <img src="/Images/index4.png" title="Text to show on mouseover" alt="alt text for screen readers" width="397">
 >   <br>
 > 
 > * Spanish, English, Portuguese, Italian, and Arabic are the top 5 languages spoken at home respectively in the observation.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index5.png" title="Text to show on mouseover" alt="alt text for screen readers" width="586">
+>   <img src="/Images/index5.png" title="Text to show on mouseover" alt="alt text for screen readers" width="586">
 >   <br>
 > 
 > * As the out-of-school computer study time increases uniformly, the amount of students decrease exponentially.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index6.png" title="Text to show on mouseover" alt="alt text for screen readers" width="395">
+>   <img src="/Images/index6.png" title="Text to show on mouseover" alt="alt text for screen readers" width="395">
 >   <br>
 > 
 > * ICT avalibily factor among students is distributed normally and at the same time a little bit left skewed, in other words, students that have extremely high ICT availability are a little bit more than students having extremely low ICT availability, while ICT availability remaining distributed normally around moderate.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index8.png" title="hist" alt="hist" width="395">
+>   <img src="/Images/index8.png" title="hist" alt="hist" width="395">
 >   <br>
 > 
 > * Students' problem solving skills factor is distributed normally and at the same time left skewed, which mean, students that have extremely high problem solving skills are more frequent than students having extremely low problem solving skills, while problem solving skills remaining distributed normally around moderate.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index9.png" title="prob solv hist" alt="prob solv hist" width="395">
+>   <img src="/Images/index9.png" title="prob solv hist" alt="prob solv hist" width="395">
 >   <br>
 > 
 > * **A.** Students not being playing chess makes the gap bigger by 79% between students familiar and not familiar with programming, with not familiar with programming being less, which is a concerning gap change precentage.
 >   **B.** Students not being exposed to video games makes the gap bigger by 15% between students familiar and not familiar with programming, with not familiar with programming being less, which is a gap change precentage that can be reasonable.
->   ![fig](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index10.png "fig")
+>   ![fig](/Images/index10.png "fig")
 >   Which is also proven when using the variable: (Problem-solver factor)
->   ![fig](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index11.png "fig")
+>   ![fig](/Images/index11.png "fig")
 >   <br>
 > 
 > * Students being exposed to video games makes the gap bigger by 14% between students preferring maths and language, with students preferring maths being more.
->   ![life experience vs fav subj](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index12.png "life experience vs fav subj")
+>   ![life experience vs fav subj](/Images/index12.png "life experience vs fav subj")
 >   <br>
 > 
 > * Students not being exposed to video games makes the gap bigger by 15% between students preferring maths and science, with students preferring science being more.
->   ![live vs fav subj](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index13.png "live vs fav subj")
+>   ![live vs fav subj](/Images/index13.png "live vs fav subj")
 >   <br>
 > 
 > * **A.** Students being playing chess makes the gap bigger by 40% between female and male students, with male students being more.
 >   **B.** Students not being exposed to video games makes the gap bigger by 46% between female and male students, with male students being less.
 >   **C.** Students not reading news makes the gap bigger by 14% between female and male students, with male students being less.
->   ![life vs bio. sex](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index14.png "life vs bio. sex")
+>   ![life vs bio. sex](/Images/index14.png "life vs bio. sex")
 >   <br>
 > 
 > * **A.** Students preferring language courses (rather than maths) makes the gap bigger by 16% between female and male students, with male students being less.
 >   **B.** Students preferring to study language (rather than maths) also makes the gap bigger by 16% between female and male students, with male students being less.
->   ![subj vs bio. sex](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index16.png "subj vs bio. sex")
+>   ![subj vs bio. sex](/Images/index16.png "subj vs bio. sex")
 >   <br>
 > 
 > * **A.** Teacher providing help made gap increase by 16% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
 >   **B.** Teacher being fair made gap increase by 20% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
->   ![student-teacher relation vs educational performance](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index18.png "student-teacher relation vs educational performance")
+>   ![student-teacher relation vs educational performance](/Images/index18.png "student-teacher relation vs educational performance")
 >   <br>
 > 
 > * Teacher allowing expressing opinions made gap increase by 18% between students who pay attention in class and those who don't, with more students paying attention.
->   ![crit vs edu](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index20.png "crit vs edu")
+>   ![crit vs edu](/Images/index20.png "crit vs edu")
 >   <br>
 > 
 > * **A.** Father being at home made gap increase by 14% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
 >   **B.** Mother being at home made gap increase by 31% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
->   ![family exist vs edu. performance](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index21.png "family exist vs edu. performance")
+>   ![family exist vs edu. performance](/Images/index21.png "family exist vs edu. performance")
 >   <br>
 > 
 > * Student having a computer made gap increase by 18% between students who have they fathers at home and those who don't, with students having their father being more, which possibly can be the reason for the previous finding, because of financial reasons.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index22.png" title="father at home vs tech access" alt="father at home vs tech access" width="693">
+>   <img src="/Images/index22.png" title="father at home vs tech access" alt="father at home vs tech access" width="693">
 >   <br>
 > 
 > * When ICT availability at home increases its use for entertainment also increases, which is the  strongest linearly-related pair of quantitive variables in the data sample
->   ![corr. coffs](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index23.png "corr coffs")
+>   ![corr. coffs](/Images/index23.png "corr coffs")
 >   Which is also proven by the following binned scatterplot:
->   ![scatter](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index24.png "scatter")
+>   ![scatter](/Images/index24.png "scatter")
 >   And also by the following 2d histogram:
->   ![2D hist](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index25.png "2D hist")
+>   ![2D hist](/Images/index25.png "2D hist")
 >   <br>
 > 
 > * Whenever out-of-school computer study time increases, the age of starting education decreases, and vice versa; which means, students of the highest education starting age that are also studying on computer alot barely exist.
 >   
->   <img src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index26.png" title="scatters1" alt="scatters 1" width="687">
+>   <img src="/Images/index26.png" title="scatters1" alt="scatters 1" width="687">
 >   <br>
 > 
 > * **A.** It's clear more male students are using ICT for fun.
 >   **B.** Students starting education at older ages are way more moderate about using ICT for Fun, which means, they neither use ICT for maximum fun nor for minimum fun.
 >   **C.** The Exact same for students studying on computer out of school alot, they are more moderate about using ICT for fun, which means, they neither use ICT for maximum fun nor for minimum fun.
->   ![scatters 2](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index28.png "scatters 2")
+>   ![scatters 2](/Images/index28.png "scatters 2")
 >   <br>
 > 
 > * **The first plot on the left:** As reaching the bottom right of the plot, the amount of students decrease, and the opposite when reaching the top left, which means, most students are **(both starting education at a younger age and using computers only for education)** and less students are **(both starting education at older age and NOT using computers only for education)**.  
 >   In other words, as the age of starting education increases and computer education only use decreases (at the same time), the amount of students decrease.
->   ![scatters 3](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index30.png "scatters 3")
+>   ![scatters 3](/Images/index30.png "scatters 3")
 >   <br>
 > 
 > * **The plot in the middle:** As the out-of-school computer study time increases, student being a problem solver becomes more moderate, instead of being low or extreme.
->   ![scatters 4](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index31.png "scatters 4")
+>   ![scatters 4](/Images/index31.png "scatters 4")
 >   <br>
 > 
 > * **A.** Most students who are having a very high problem-solver factor are male students.
 >   
 >   **B.** More male students use computer for school, but not way more.
->   ![hist 2d pair 1](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index32.png "Text to show on mouseover")
+>   ![hist 2d pair 1](/Images/index32.png "Text to show on mouseover")
 >   <br>
 > 
 > * **A.** Students preferring maths are more condenced in the area of being problem solvers
@@ -260,7 +260,7 @@
 >   **B.** Students preferring language are more condenced in the area of being less of a problem solver
 >   
 >   **C.** Students classifying as having extreme problem-solver factor are way more frquent when student prefers maths.
->   ![hist 2d pair 2](/media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index33.png "hist 2d pair 2")
+>   ![hist 2d pair 2](/Images/index33.png "hist 2d pair 2")
 >   <br>
 
 ## Key Insights for Presentation
