@@ -177,7 +177,7 @@
 >   <img src="/Images/index9.png" title="prob solv hist" alt="prob solv hist" width="395">
 >   <br><hr>
 > 
-> * **A.** Students not being playing chess makes the gap bigger by 79% between students familiar and not familiar with programming, with not familiar with programming being less, which is a concerning gap change precentage.
+> * **A.** Students not being playing chess makes the gap bigger by 79% between students familiar and not familiar with programming, with not familiar with programming being less, which is a concerning gap change precentage.<br>
 >   **B.** Students not being exposed to video games makes the gap bigger by 15% between students familiar and not familiar with programming, with not familiar with programming being less, which is a gap change precentage that can be reasonable.
 >   ![fig](/Images/index10.png "fig")
 >   Which is also proven when using the variable: (Problem-solver factor)
@@ -192,18 +192,18 @@
 >   ![live vs fav subj](/Images/index13.png "live vs fav subj")
 >   <br><hr>
 > 
-> * **A.** Students being playing chess makes the gap bigger by 40% between female and male students, with male students being more.
->   **B.** Students not being exposed to video games makes the gap bigger by 46% between female and male students, with male students being less.
+> * **A.** Students being playing chess makes the gap bigger by 40% between female and male students, with male students being more.<br>
+>   **B.** Students not being exposed to video games makes the gap bigger by 46% between female and male students, with male students being less.<br>
 >   **C.** Students not reading news makes the gap bigger by 14% between female and male students, with male students being less.
 >   ![life vs bio. sex](/Images/index14.png "life vs bio. sex")
 >   <br><hr>
 > 
-> * **A.** Students preferring language courses (rather than maths) makes the gap bigger by 16% between female and male students, with male students being less.
+> * **A.** Students preferring language courses (rather than maths) makes the gap bigger by 16% between female and male students, with male students being less.<br>
 >   **B.** Students preferring to study language (rather than maths) also makes the gap bigger by 16% between female and male students, with male students being less.
 >   ![subj vs bio. sex](/Images/index16.png "subj vs bio. sex")
 >   <br><hr>
 > 
-> * **A.** Teacher providing help made gap increase by 16% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
+> * **A.** Teacher providing help made gap increase by 16% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.<br>
 >   **B.** Teacher being fair made gap increase by 20% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
 >   ![student-teacher relation vs educational performance](/Images/index18.png "student-teacher relation vs educational performance")
 >   <br><hr>
@@ -212,7 +212,7 @@
 >   ![crit vs edu](/Images/index20.png "crit vs edu")
 >   <br><hr>
 > 
-> * **A.** Father being at home made gap increase by 14% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
+> * **A.** Father being at home made gap increase by 14% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.<br>
 >   **B.** Mother being at home made gap increase by 31% between students who say they do poorly regardless and who don't, with less students saying they do poorly regardless.
 >   ![family exist vs edu. performance](/Images/index21.png "family exist vs edu. performance")
 >   <br><hr>
@@ -235,8 +235,8 @@
 >   <img src="/Images/index26.png" title="scatters1" alt="scatters 1" width="687">
 >   <br><hr>
 > 
-> * **A.** It's clear more male students are using ICT for fun.
->   **B.** Students starting education at older ages are way more moderate about using ICT for Fun, which means, they neither use ICT for maximum fun nor for minimum fun.
+> * **A.** It's clear more male students are using ICT for fun.<br>
+>   **B.** Students starting education at older ages are way more moderate about using ICT for Fun, which means, they neither use ICT for maximum fun nor for minimum fun.<br>
 >   **C.** The Exact same for students studying on computer out of school alot, they are more moderate about using ICT for fun, which means, they neither use ICT for maximum fun nor for minimum fun.
 >   ![scatters 2](/Images/index28.png "scatters 2")
 >   <br><hr>
