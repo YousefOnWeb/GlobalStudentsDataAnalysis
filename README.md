@@ -262,7 +262,3 @@
 >   **C.** Students classifying as having extreme problem-solver factor are way more frquent when student prefers maths.
 >   ![hist 2d pair 2](/Images/index33.png "hist 2d pair 2")
 >   <br>
-
-## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
