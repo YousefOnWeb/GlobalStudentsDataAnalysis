@@ -137,7 +137,7 @@
 
 > * The average age for a student took part in the survey resulting in the dataset appears to be almost 16 years, distributed like a uniform distribution that's a skewed as reaching the age limits of 15.2 and 16.3.
 >   
->   <img title="age histogram" src="file:///media/yousef/HDD/Projects/Jupyter%20Notebooks/Data%20Expert/Final%20Visualization%20Proj/communicate-data-project-template/Project%20Template/Images/index.png" alt="age histogram" width="397" data-align="inline">
+>   <img title="age histogram" src="/Images/index.png" alt="age histogram" width="397" data-align="inline">
 >   <br>
 > 
 > * Distribution of age of starting grade ISCED 1 (starting primary education), there are some outliers staring education at the age of 8 and above, but they are not removed as they can unlock interesting findings not found in the mainstream of students data.
