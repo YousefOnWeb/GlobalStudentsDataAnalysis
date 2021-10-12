@@ -222,9 +222,9 @@
 >   <br>
 > 
 > * When ICT availability at home increases its use for entertainment also increases, which is the  strongest linearly-related pair of quantitive variables in the data sample
->   ![corr. coffs](/Images/index23.png "corr coffs")
+>   ![corr. coffs](/Images/index23.png "corr coffs")<br>
 >   Which is also proven by the following binned scatterplot:
->   ![scatter](/Images/index24.png "scatter")
+>   ![scatter](/Images/index24.png "scatter")<br>
 >   And also by the following 2d histogram:
 >   ![2D hist](/Images/index25.png "2D hist")
 >   <br>
