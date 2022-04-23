@@ -13,7 +13,7 @@ If you are skipping the README:<br>
 >  intended to evaluate educational systems by measuring 15-year-old 
 > school pupils' scholastic performance on mathematics, science, and 
 > reading in form of a survey, this exploration makes use of the dataset 
-> of the survey's results to gather to answer some related questions.
+> of the survey's results to gather answers to some related questions.
 > 
 > ### Dataset Structure
 > 
