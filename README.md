@@ -1,6 +1,6 @@
 # Programme for International Student Assessment | [PISA](https://www.oecd.org/pisa/) <br>2012 Survey Results Exploration
 
-## This is an old project that was made in a shortage of time and so both of the python code and the documentaion have many big mistakes that 'me of today' can notice easily
+## This is an old project that was made in a shortage of time and so both of the python code and the documentation have many big mistakes that 'me of today' can notice easily
 If you are skipping the README:<br>
 [Go to full wrangling process](https://github.com/YousefOnWeb/GlobalStudentsDataAnalysis/blob/main/PISA_Results_Wrangling.ipynb)<br>
 [Go to full analysis process](https://github.com/YousefOnWeb/GlobalStudentsDataAnalysis/blob/main/PISA_Results_Exploration.ipynb)
